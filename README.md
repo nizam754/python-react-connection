@@ -188,7 +188,7 @@ The file architecture for a project involving a containerized React frontend and
   - requirements.txt: Lists all Python dependencies.
   - /venv: Virtual environment directory for Python packages (usually not included in the repository or Docker container).
 
-## Component's functionality and the connectivity check:
+## Component's functionality and the connectivity Testing:
 1. Check Container Status
     
     First, ensure that both containers are up and running:
